@@ -41,3 +41,4 @@
 * Seaborn
 * Scikit-Learn
   
+本项目的github链接为：https://github.com/heroqsx/Starbucks_Project
